@@ -1,7 +1,7 @@
 # About
 <img src="img/JS_for_beginners.png">
 
-denme un poco mas uwu
+<div allign="center">denme un poco mas uwu<div/>
 <br><br/>
 <img src="img/gato_llorando.jpeg" >
 
